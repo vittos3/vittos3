@@ -1,9 +1,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
- Apaixonado por tecnologia e inovação, sou um desenvolvedor Front-End focado em criar soluções que combinam performance e design utilizando **Javascript**, **React**, **Typescript**, e **Next.js**. Com uma transição de carreira bem-sucedida, levo comigo uma sólida experiência em resolução de problemas e uma forte base em sistemas, o que me permite desenvolver soluções que realmente fazem a diferença para os usuários.
+ Apaixonado por tecnologia e inovação, sou um desenvolvedor Front-End focado em criar soluções que combinam performance e design utilizando Javascript, React, Typescript, e Next.js. Com uma transição de carreira em andamento, levo comigo uma sólida experiência em resolução de problemas e uma forte base em sistemas, o que me permite desenvolver soluções que realmente fazem a diferença para os usuários.
 
-Estou cursando Sistemas de Informação na UniFTC (com conclusão prevista para 2027) e já acumulo certificações e experiências relevantes na área. Minha expertise inclui desde a criação de interfaces dinâmicas e intuitivas até o consumo e integração de APIs.
+Estou cursando Sistemas de Informação na UniFTC (com conclusão prevista para 2027) e possuo certificações e experiências relevantes com projetos pessoais. meu conhecimento inclui desde a criação de interfaces dinâmicas e intuitivas até o consumo e integração de APIs.
 
 Sou proficiente em **Javascript** e ferramentas como **Figma** para design, além de utilizar práticas avançadas de versionamento com **Git** e possuir uma compreensão sólida de **Next.js**. No dia a dia, ferramentas como **Jira** e **Monday** são essenciais para garantir que todos os projetos e tarefas sejam geridos de maneira eficaz.
 
