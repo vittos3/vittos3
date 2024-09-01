@@ -1,30 +1,34 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
- Apaixonado por tecnologia e inovação, sou um desenvolvedor back-end focado na criação de soluções robustas e eficientes utilizando Golang e SQL. Com uma transição de carreira bem-sucedida, aproveito minha experiência em resolução de problemas e suporte a sistemas para construir soluções que agreguem valor real aos usuários.
+ Apaixonado por tecnologia e inovação, sou um desenvolvedor Front-End focado em criar soluções que combinam performance e design utilizando **Javascript**, **React**, **Typescript**, e **Next.js**. Com uma transição de carreira bem-sucedida, levo comigo uma sólida experiência em resolução de problemas e uma forte base em sistemas, o que me permite desenvolver soluções que realmente fazem a diferença para os usuários.
 
-Possuo uma sólida formação em Sistemas de Informação pela UniFTC (conclusão prevista para 2027) e diversas certificações relevantes. Minha expertise abrange desde a criação e consumo de APIs.
+Estou cursando Sistemas de Informação na UniFTC (com conclusão prevista para 2027) e já acumulo certificações e experiências relevantes na área. Minha expertise inclui desde a criação de interfaces dinâmicas e intuitivas até o consumo e integração de APIs.
 
-Sou proficiente em Golang e SQL, utilizo práticas avançadas de versionamento com Git e possuo uma compreensão sólida de bancos de dados relacionais. Além disso, ferramentas como Jira e Monday são parte do meu dia a dia, permitindo uma gestão eficaz de projetos e tarefas.
+Sou proficiente em **Javascript** e ferramentas como **Figma** para design, além de utilizar práticas avançadas de versionamento com **Git** e possuir uma compreensão sólida de **Next.js**. No dia a dia, ferramentas como **Jira** e **Monday** são essenciais para garantir que todos os projetos e tarefas sejam geridos de maneira eficaz.
 
-Estou sempre em busca de novas oportunidades para aplicar minhas habilidades e contribuir para o sucesso de projetos inovadores. Se você está procurando um profissional dedicado e com um forte pensamento analítico, vamos conectar e discutir como posso ajudar a impulsionar seu próximo projeto!
+Sempre em busca de novas oportunidades para aplicar minhas habilidades, estou pronto para contribuir com projetos inovadores. Se você está em busca de um profissional dedicado e com um forte pensamento analítico, vamos conectar e discutir como posso ajudar a impulsionar seu próximo projeto!
 </p>
 
 <p align="left">
-  🦄 Linguagens: Go
+  🦄 **Linguagens:** Javascript, Typescript
 </p>
 
 <p align="left">
-  💼 Ferramentas: **Visual Studio Code/**
+  💼 **Ferramentas:** Visual Studio Code, Figma, Jira, Git, Monday
 </p>
 
 <p align="left">
-  💌Você pode me encontrar por meio dos links abaixo: ⤵️
+  💌 **Você pode me encontrar por meio dos links abaixo:** ⤵️
 </p>
 
 <p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <a href="mailto:seuemail@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/vitorsdev/" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=[LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/vitorsdev/)" alt="LinkedIn"/></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
+
+---
+
+Esse texto ajustado reflete as tecnologias e habilidades que você utiliza atualmente, mantendo uma linguagem acessível e engajante.
