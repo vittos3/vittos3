@@ -29,6 +29,3 @@ Sempre em busca de novas oportunidades para aplicar minhas habilidades, estou pr
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
----
-
-Esse texto ajustado reflete as tecnologias e habilidades que você utiliza atualmente, mantendo uma linguagem acessível e engajante.
