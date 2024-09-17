@@ -1,13 +1,22 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
- Apaixonado por tecnologia e inovação, sou um desenvolvedor Front-End focado em criar soluções que combinam performance e design utilizando Javascript, React, Typescript, e Next.js. Com uma transição de carreira em andamento, levo comigo uma sólida experiência em resolução de problemas e uma forte base em sistemas, o que me permite desenvolver soluções que realmente fazem a diferença para os usuários.
+ Atualmente, estou me dedicando ao desenvolvimento Front-End e focado em aprender cada vez mais sobre criação de interfaces intuitivas e funcionais. Com uma formação em outra área, decidi mudar minha carreira para a tecnologia e já tenho experiência com ferramentas como React, Typescript, HTML, CSS e design de interfaces usando Figma e Photoshop.
 
-Estou cursando Sistemas de Informação na UniFTC (com conclusão prevista para 2027) e possuo certificações e experiências relevantes com projetos pessoais. meu conhecimento inclui desde a criação de interfaces dinâmicas e intuitivas até o consumo e integração de APIs.
+Sou uma pessoa adaptável, que aprende rápido, especialmente em ambientes dinâmicos e em constante mudança. Gosto de resolver problemas e trabalhar em equipe para encontrar as melhores soluções. Tenho facilidade em me comunicar com diferentes profissionais e gosto de contribuir para o sucesso de projetos colaborativos.
 
-Sou proficiente em **Javascript** e ferramentas como **Figma** para design, além de utilizar práticas avançadas de versionamento com **Git** e possuir uma compreensão sólida de **Next.js**. No dia a dia, ferramentas como **Jira** e **Monday** são essenciais para garantir que todos os projetos e tarefas sejam geridos de maneira eficaz.
+Em termos de experiência prática, participei de projetos como:
 
-Sempre em busca de novas oportunidades para aplicar minhas habilidades, estou pronto para contribuir com projetos inovadores. Se você está em busca de um profissional dedicado e com um forte pensamento analítico, vamos conectar e discutir como posso ajudar a impulsionar seu próximo projeto!
+BlueHealth: Ajudei a identificar e corrigir problemas em um sistema de operadora de saúde, trabalhando junto com desenvolvedores para melhorar a usabilidade do sistema.
+Mercado Livre: Atuei na organização e gestão de estoque, otimizando processos e melhorando a eficiência das operações.
+Minhas principais ferramentas de trabalho são:
+
+Desenvolvimento Web: React, Typescript, HTML, CSS
+Design de Interface: Figma, Photoshop
+Colaboração em Projetos: Jira, Monday, Git
+Estou em busca de novas oportunidades para continuar aprendendo e evoluindo como desenvolvedor. Quero me especializar em desenvolvimento web, combinando minhas habilidades em design e código para criar soluções que funcionem bem e tenham uma ótima aparência.
+
+Estou sempre aberto a conversar sobre novos desafios e oportunidades no desenvolvimento Front-End!
 </p>
 
 <p align="left">
