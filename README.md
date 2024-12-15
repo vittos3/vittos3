@@ -1,6 +1,3 @@
-Segue abaixo o modelo atualizado do README para refletir a sua transição e especialização em desenvolvimento Back-End utilizando Node.js. Mantive o formato limpo e visualmente atrativo, mas ajustei o foco para destacar sua experiência atual e objetivos como desenvolvedor back-end.
-
----
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
